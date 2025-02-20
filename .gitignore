@@ -1,0 +1,21 @@
+# Environment variables
+.env
+
+# Ignore all Terraform state and backup files
+**/terraform.tfstate*
+**/tfplan
+**/.terraform.lock.hcl
+
+# Ignore entire Terraform working directories (including large provider binaries)
+**/.terraform/
+
+# Specifically ensure Terraform provider binaries are not committed
+**/.terraform/providers/
+
+**/.terraform/
+**/.terraform/providers/
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+tfplan
