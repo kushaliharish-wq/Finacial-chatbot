@@ -9,7 +9,9 @@ Financio is an AI-powered RAG chatbot designed to help users track their finance
 
 🚀 Features
 🔹 Smart Transaction Search: Retrieve past transactions using entity extraction (vendor, date, category, amount).
+
 🔹 Financial Goal Planning: Helps users save a target amount by adjusting spending habits.
+
 🔹 Fast Similarity Search: Uses Pinecone to match user queries with relevant financial data.
 
 1️⃣ Clone the Repository
