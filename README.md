@@ -13,7 +13,7 @@ Financio is an AI-powered RAG chatbot designed to help users track their finance
 🔹 Fast Similarity Search: Uses Pinecone to match user queries with relevant financial data.
 
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/Financio.git
+git clone https://github.com/kushaliharish-wq/Financio.git
 
 2️⃣ Create and Activate Virtual Environment
 
